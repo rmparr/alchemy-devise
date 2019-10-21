@@ -1,3 +1,7 @@
+## 4.3.1 (2019-10-21)
+
+- Rename Alchemy::BaseController extension constant [#87](https://github.com/AlchemyCMS/alchemy-devise/pull/87) ([tvdeyen](https://github.com/tvdeyen))
+
 ## 4.3.0 (2019-08-23)
 
 - Move test dependencies [#86](https://github.com/AlchemyCMS/alchemy-devise/pull/86) ([tvdeyen](https://github.com/tvdeyen))
